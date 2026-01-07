@@ -1,0 +1,11 @@
+                                           Adopters Non adopters
+Employment (FTE)                                869          496
+Sales (k€)                                  342,896      156,882
+Labor Productivity (k€ per worker)               93           80
+Capital Intensity (k€ per worker)               228          202
+Labor Share in Value Added                     0.64         0.74
+Low Skilled Workers (Share)                    0.17         0.26
+High Skilled Workers (Share)                   0.29         0.22
+Engineers (Share)                              0.14         0.09
+Export Share                                   0.23         0.11
+Age (Years)                                      21           20
